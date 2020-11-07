@@ -1,0 +1,35 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", 24HORAS
+http://appstv.us:25461/lozanos/tvmulti/536
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CDF PREMIUN
+http://appstv.us:25461/lozanos/tvmulti/540
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CDO BASICO
+http://appstv.us:25461/lozanos/tvmulti/541
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CDO PREMIUN
+http://appstv.us:25461/lozanos/tvmulti/542
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CHILEVISION
+http://appstv.us:25461/lozanos/tvmulti/543
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", ETC TV
+http://appstv.us:25461/lozanos/tvmulti/544
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", FOX SPORTS
+http://appstv.us:25461/lozanos/tvmulti/545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", LA RED
+http://appstv.us:25461/lozanos/tvmulti/546
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", MEGA
+http://appstv.us:25461/lozanos/tvmulti/547
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", TELETRAK
+http://appstv.us:25461/lozanos/tvmulti/549
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", TVN
+http://appstv.us:25461/lozanos/tvmulti/550
